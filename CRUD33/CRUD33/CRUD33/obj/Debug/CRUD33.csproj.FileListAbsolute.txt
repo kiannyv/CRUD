@@ -1,0 +1,126 @@
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\CRUD33.exe.config
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\CRUD33.exe
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\CRUD33.pdb
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\Npgsql.dll
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.Buffers.dll
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.Collections.Immutable.dll
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.Memory.dll
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.Text.Json.dll
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.Threading.Channels.dll
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.ValueTuple.dll
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\Npgsql.xml
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.Buffers.xml
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.Collections.Immutable.xml
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.Memory.xml
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.Text.Json.xml
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.Threading.Channels.xml
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\bin\Debug\System.ValueTuple.xml
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\obj\Debug\CRUD33.csproj.AssemblyReference.cache
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\obj\Debug\CRUD33.csproj.SuggestedBindingRedirects.cache
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\obj\Debug\CRUD33.Properties.Resources.resources
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\obj\Debug\CRUD33.csproj.GenerateResource.cache
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\obj\Debug\CRUD33.csproj.CoreCompileInputs.cache
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\obj\Debug\CRUD33.csproj.CopyComplete
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\obj\Debug\CRUD33.exe
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\obj\Debug\CRUD33.pdb
+C:\Users\MilliPC\Desktop\C Sharp\CRUD33\CRUD33\obj\Debug\CRUD33.Perfil.resources
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\CRUD33.exe.config
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\CRUD33.exe
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\CRUD33.pdb
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\Npgsql.dll
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.Buffers.dll
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.Memory.dll
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.Text.Json.dll
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.Threading.Channels.dll
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.ValueTuple.dll
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\Npgsql.xml
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.Buffers.xml
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.Memory.xml
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.Text.Json.xml
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.Threading.Channels.xml
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\bin\Debug\System.ValueTuple.xml
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\obj\Debug\CRUD33.csproj.AssemblyReference.cache
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\obj\Debug\CRUD33.csproj.SuggestedBindingRedirects.cache
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\obj\Debug\CRUD33.Perfil.resources
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\obj\Debug\CRUD33.Properties.Resources.resources
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\obj\Debug\CRUD33.csproj.GenerateResource.cache
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\obj\Debug\CRUD33.csproj.CoreCompileInputs.cache
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\obj\Debug\CRUD33.csproj.CopyComplete
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\obj\Debug\CRUD33.exe
+C:\Users\ldsan\Downloads\CRUD33\CRUD33\CRUD33\obj\Debug\CRUD33.pdb
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\CRUD33.exe.config
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\CRUD33.exe
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\CRUD33.pdb
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\Npgsql.dll
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.Buffers.dll
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.Collections.Immutable.dll
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.Memory.dll
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.Numerics.Vectors.dll
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.Text.Encodings.Web.dll
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.Text.Json.dll
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.Threading.Channels.dll
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.ValueTuple.dll
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\Npgsql.xml
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.Buffers.xml
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.Collections.Immutable.xml
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.Memory.xml
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.Numerics.Vectors.xml
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.Text.Encodings.Web.xml
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.Text.Json.xml
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.Threading.Channels.xml
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\bin\Debug\System.ValueTuple.xml
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\obj\Debug\CRUD33.csproj.AssemblyReference.cache
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\obj\Debug\CRUD33.csproj.SuggestedBindingRedirects.cache
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\obj\Debug\CRUD33.Perfil.resources
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\obj\Debug\CRUD33.Properties.Resources.resources
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\obj\Debug\CRUD33.csproj.GenerateResource.cache
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\obj\Debug\CRUD33.csproj.CoreCompileInputs.cache
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\obj\Debug\CRUD33.csproj.CopyComplete
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\obj\Debug\CRUD33.exe
+D:\CRUD_Sencillo\CRUD33\CRUD33\CRUD33\obj\Debug\CRUD33.pdb
